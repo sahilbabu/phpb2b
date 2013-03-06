@@ -1,0 +1,6 @@
+﻿Install steps:
+
+1）unzip the file and upload the "upload" directory to your server
+2）run http://www.your-phpb2b-domain.com/install/install.php, and follow the installation
+3）be sure writeable the directory:configs ， data , attachment 
+4）any problem, you can visit our official site: http://www.phpb2b.com/en/forum-and-community

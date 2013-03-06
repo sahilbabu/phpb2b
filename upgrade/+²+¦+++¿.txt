@@ -1,0 +1,6 @@
+upgrade1.php 1.x to 3.2
+upgrade2.php 2.x to 3.2
+upgrade3.php 3.x to 3.2
+upgrade4.php 3.2,3.3beta to 3.3
+upgrade34to40.php 3.3beta3,3.3,3.4 to 4.0
+upgrade40to41.php 4.0.0/4.0.1/4.0.2/4.0.3/4.0.4/4.0.5 to 4.1
